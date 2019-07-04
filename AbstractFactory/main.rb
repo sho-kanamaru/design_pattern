@@ -1,5 +1,5 @@
-require '../AbstractFactory/factories/FrogAndAlgaeFactory'
-require '../AbstractFactory/factories/DuckAndWaterLilyFactory'
+require '../AbstractFactory/factories/frog_and_algae_factory'
+require '../AbstractFactory/factories/duck_and_water_lily_factory'
 
 factory = FrogAndAlgaeFactory.new(4,1)
 animals = factory.get_animals

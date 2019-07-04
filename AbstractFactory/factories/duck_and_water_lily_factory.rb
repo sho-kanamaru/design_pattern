@@ -1,4 +1,6 @@
-require './OrganismFactory'
+require_relative 'organism_factory'
+require_relative '../animals/duck'
+require_relative '../plants/water_lily'
 
 # アヒル(Duck)とスイレン(WaterLily)の生成を行う(Concrete Factory)
 class DuckAndWaterLilyFactory < OrganismFactory
