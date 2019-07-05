@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb3eaa6-dbbe-4ed9-af80-839932184373" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/builder/builder/sugar_water_builder.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder/concrete_builder/sugar_water.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder/director/director.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder/main.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/animals/duck.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/animals/duck.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/animals/frog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/animals/frog.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/factories/duck_and_water_lily_factory.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/factories/duck_and_water_lily_factory.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/factories/frog_and_algae_factory.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/factories/frog_and_algae_factory.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/factories/organism_factory.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/factories/organism_factory.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/main.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/main.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/plants/algae.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/plants/algae.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/plants/water_lily.rb" beforeDir="false" afterPath="$PROJECT_DIR$/abstract_factory/plants/water_lily.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstract_factory/plants/algae.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abstract_factory/plants/water_lily.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/builder/main.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -141,17 +131,7 @@
         <option value="$PROJECT_DIR$/builder/director/director.rb" />
         <option value="$PROJECT_DIR$/builder/builder/sugar_water_builder.rb" />
         <option value="$PROJECT_DIR$/builder/main.rb" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/design_pattern.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -171,28 +151,6 @@
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
-              <item name="animals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -201,6 +159,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -238,12 +197,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562114359113</updated>
       <workItem from="1562114362055" duration="1347000" />
-      <workItem from="1562199112119" duration="2054000" />
+      <workItem from="1562199112119" duration="2158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3401000" />
+    <option name="totallyTimeSpent" value="3505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +217,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,7 +230,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -360,6 +319,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
